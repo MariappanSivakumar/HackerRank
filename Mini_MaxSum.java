@@ -13,9 +13,11 @@ import static java.util.stream.Collectors.toList;
 class Result {
 
     /*
-     * Complete the 'miniMaxSum' function below.
-     *
-     * The function accepts INTEGER_ARRAY arr as parameter.
+     Sample Input 
+     4
+        3 2 1 3
+    Sample Output 
+        2
      */
     public static void minimax(long num[])
     {
